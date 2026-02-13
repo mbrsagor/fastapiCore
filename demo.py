@@ -1,6 +1,6 @@
 """
-FastAPI CRUD Application
-------------------------
+FastAPI Simple CRUD Application
+---------------------------------
 - Database: PostgreSQL
 - ORM: SQLAlchemy
 - Validation: Pydantic
